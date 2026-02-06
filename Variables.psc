@@ -3,6 +3,9 @@ Algoritmo Variables
 	// nos va a indicar que elementos 
 	// tenemos en memoria
 	Definir sumando, sumando1,sumando2 Como entero 
+    // 2001 (entero)
+    // 1.5 (decimal) 
+    // estos datos se utilizan para proceso numerico
     // los tipos de datos son necesarios para que el compilador 
 	// sepa que tipo de momoria debe consultar.
 	sumando= 20 
@@ -21,13 +24,13 @@ Algoritmo Variables
 	sumando1= 4
 	resultado= sumando * sumando1
 	
-	Escribir " el resultado de la multiplicación es " , resultado 
+	Escribir " el resultado de la multiplicaciÃ³n es " , resultado 
 	
 	sumando= 20 
 	sumando1= 4
 	resultado= sumando / sumando1
 	
-	Escribir " el resultado de la división es " , resultado 
+	Escribir " el resultado de la divisiÃ³n es " , resultado 
 	
 	sumando= 20 
 	sumando1= 4
